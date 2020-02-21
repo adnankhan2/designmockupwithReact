@@ -1,0 +1,39 @@
+.header-wrapper{
+    background-color:#4B4C4A ;
+
+}
+.header-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.headerMsg{
+    color: white;
+    font-weight: 400;
+    font-size: medium;
+}
+.headerMsg{
+    letter-spacing: 3px;
+}
+#styledMsg{
+    color:#848484;
+    font-weight: 500;
+}
+.button{
+    background-color: #5277FB;
+    border: none;
+}
+.button{
+    padding: 1.5rem;
+   color: white;
+   
+}
+.headerborder{
+    background-image: url(./Border-BG.jpg);
+    
+}
+.headerborder,img{
+   position: sticky;
+   top: 50px;
+  
+}
